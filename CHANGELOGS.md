@@ -1,4 +1,6 @@
 # *Zylo Changelogs* 🛠
+> *This is where all the changes are announced/archive for future official release.*
+
 
 ## **Zylo-Beta-1.0.0**
 
