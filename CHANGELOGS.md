@@ -1,4 +1,4 @@
-# **Zylo Changelogs**
+# *Zylo Changelogs* 🛠
 
 ## **Zylo-Beta-1.0.0**
 
