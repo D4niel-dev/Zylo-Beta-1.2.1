@@ -1,6 +1,7 @@
 # **Zylo Changelogs**
 
-> ## **Zylo-Beta-1.0**
+## **Zylo-Beta-1.0.0**
+
 - Initial beta release.
 - Core auth pages (login, signup, forgot/reset).
 - Basic community chat with Socket.IO (text + files).
@@ -8,9 +9,9 @@
 - Theme toggle (light/dark) and basic settings.
 
 
-> ## **Zylo-Beta-1.1**
+## **Zylo-Beta-1.1.0**
 
-*[NEW]:*
+*[NEWS]:*
 - Added Friends and Groups basics in UI.
 - Community room stats on Home (users, messages, rooms).
 - Initial settings structure and quick panel.
@@ -23,9 +24,9 @@
 - Fix some UI functions
 
 
-> ## **Zylo-Beta-v1.2**
+## **Zylo-Beta-v1.2.0**
 
-*[NEW]:*
+*[NEWS]:*
 - Profile editing: avatar/banner upload preview and persistence.
 - Explore section scaffold.
 - Build artifacts distributed, download cards with progress estimator.
@@ -50,9 +51,9 @@
 - Performance tweaks and minor bug fixes.
 
 
-> ## **Zylo-Beta-v1.2.1** *(Latest)*
+## **Zylo-Beta-v1.2.1** *(Latest)*
 
-*[NEW]:*
+*[NEWS]:*
 - Theme Editor: Added "Main Background" color picker for granular UI customization.
 - Theme Editor: Added "Reset to Default" button to restore original settings.
 - Theme Editor: New "Midnight" preset theme with cyan accents.
