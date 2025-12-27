@@ -1,4 +1,4 @@
-# Zylo App — Update, Bug Fix, and Improvement Plan (v1.2.1)
+# Zylo App — Update, Bug Fix, Improvement Plan (v1.2.1)
 
 ## Objective
 This document defines concrete improvements, confirmed bugs, and technical fixes for Zylo v1.2.1 based on direct inspection of the current frontend and backend codebase.  
@@ -141,6 +141,11 @@ Theme selector does not affect:
 - Some UI components require reload to reflect theme change
 - Theme updates are not propagated to all mounted elements
 - The *"Midnight"* preset theme in the custom theme modal, still need to be fixed because some of the UI components are still using the light mode color.
+
+### 3.5 Mobile UI Not Fully Compatible
+**Observed**
+- Some UI components are broken when used on mobile
+- The sidebar doesn't work on mobile, soft-locking the users
 
 ---
 
